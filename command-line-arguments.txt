@@ -1,0 +1,7 @@
+Simulation execution details:
+
+bash$ ./a.out 1 2 0.01 256 4 0.5 128 > output02.txt
+
+bash$ ./a.out 2 2 0.01 256 4 0.5 128 > output03.txt
+
+bash$ ./a.out 16 2 0.01 256 4 0.75 64 > output04.txt
